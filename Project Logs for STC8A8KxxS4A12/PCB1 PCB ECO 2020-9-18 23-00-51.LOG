@@ -1,0 +1,15 @@
+Added Component: Designator=USB(USB3.1 TypeC)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=USB-1
+Added Pin To Net: NetName=NetF1_1 Pin=USB-2
+Added Pin To Net: NetName=NetU2_2 Pin=USB-5
+Added Pin To Net: NetName=NetU2_1 Pin=USB-6
+Added Pin To Net: NetName=NetU2_2 Pin=USB-7
+Added Pin To Net: NetName=NetU2_1 Pin=USB-8
+Added Pin To Net: NetName=NetF1_1 Pin=USB-11
+Added Pin To Net: NetName=GND Pin=USB-12
+Added Pin To Net: NetName=GND Pin=USB-13
+Added Pin To Net: NetName=GND Pin=USB-13
+Added Pin To Net: NetName=GND Pin=USB-13
+Added Pin To Net: NetName=GND Pin=USB-13
+Added Member To Class: ClassName=Sheet1 Member=Component USB USB_TypeC
